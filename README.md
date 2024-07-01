@@ -16,6 +16,19 @@ Implement the following in each option:
 
 https://flet.dev/
 
+pros: 
+- lots of built-in controls
+- runs local and web
+- async support
+- good tutorials
+
+cons:
+- basically no info online
+- poorly documented run configurations
+- could not debug in web mode?
+- codebase is questionably documented
+- documentation is good when extant but could use a full API doc
+
 
 ### Reflex
 
